@@ -18,3 +18,4 @@ clean:
 	rm -f ex14
 	rm -f ex16
 	rm -f ex16_external
+	rm -f ex17
